@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **JavaScript, Apex, HTML**
 
+- 👯 I’m looking to collaborate on **Salesforce Development**
+
+- 💬 Ask me about **Deployments, Linux**
+
 - 📫 How to reach me **nksmhj@yahoo.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nikeshmhj/](https://www.linkedin.com/in/nikeshmhj/)

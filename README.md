@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikesh Maharjan</h1>
-<h3 align="center">A passionate and learning programming from Nepal in Japan</h3>
+<h3 align="center">A passionate System Engineer and learning programming from Nepal in Japan</h3>
 
 - 🔭 I’m currently working on [System Science Corporation](http://www.ssci.co.jp/)
 
@@ -12,6 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nikeshmaharj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikeshmaharj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikeshmhj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikeshmhj" height="30" width="40" /></a>
+<a href="https://instagram.com/nikeshmaharja_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikeshmaharja_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

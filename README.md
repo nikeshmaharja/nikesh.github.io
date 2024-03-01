@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **Salesforce, JavaScript, Apex, HTML**<br><br>- 👯 I’m looking to collaborate on **Salesforce Development**<br><br>- 💬 Ask me about **Deployments, Linux, Salesforce**<br><br>- 
+🌱 I’m currently learning **Salesforce, JavaScript, Apex, HTML**<br><br>- 👯 I’m looking to collaborate on **Salesforce Development**<br><br>- 💬 Ask me about **Deployments, Linux, Salesforce**<br><br>
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nikeshmaharja&icon=9&color=0)](https://visitcount.itsvg.in)
